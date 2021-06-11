@@ -19,4 +19,4 @@ The Gulf Stream is a dominant physical feature in the North Atlantic influencing
 - demonstration of an array of scientific computing tools for oceanography analysis
 - investigation of the physical and biological properties of the Gulf Stream front over a decade
 
-This notebook and repo was developed in large part for the 2021 [EarthCube](https://www.earthcube.org/) annual meeting.
+This notebook and repo was developed in large part for the 2021 [EarthCube](https://www.earthcube.org/) annual meeting. The official version can be found in the EarthCube 2021 Proceedings on github here: https://github.com/earthcube2021/ec21_gray_etal
